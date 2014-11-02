@@ -6,7 +6,7 @@ Attempt to detect p300 event related potential as a brain gesture for paralyzed 
 ##Progress
 Calibration system is complete. From the calibration system, there is a machine learning process that uses the calibration data as a training set, and should become able to distinguish between events when the brain signal has and has not occured.
 
-Currently the feature extraction is incomplete, and the machine learning algorithm is missing regularization to prevent overfitting.
+Currently the feature extraction of data for machine learning is incomplete, and the machine learning algorithm is missing regularization to prevent overfitting.
 
 ##How to run
 
