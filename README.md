@@ -28,9 +28,11 @@ Currently the feature extraction of data for machine learning is incomplete, and
 ###Machine learning system
 ####Requirements
 * MatLab (with Signal Processing Toolkit)
-* EEGLab
+* EEGLab (with some extra plugins)
+* data.mat training set
 
 ####Instructions
+* Run everything.m with the training set path as the input parameter. This runs a script that cleans up the EEG data and sorts it into response and non response for the machine learning data set, runs an incomplete feature extraction, and runs a machine learning algorithm for determining whether future data contains a response or not.
 
 ##Future directions
 ###Sensorimotor signal for vegetative patients
