@@ -29,5 +29,5 @@ Currently the feature extraction is incomplete, and the machine learning algorit
 ###Machine learning system
 
 ##Future directions
-Sensorimotor signal for vegetative patients
+###Sensorimotor signal for vegetative patients
 Often vegetative patients cannot focus their eyes. Instead of the event related potential, scientists ask the patients to imagine movement, to create a brain response. It would be nice to be able to detect this signal on a portable bluetooth-capable EEG headband, so that vegetative patients can communicate outside of full EEG and fMRI.
