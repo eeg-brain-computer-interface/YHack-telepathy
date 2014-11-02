@@ -13,7 +13,6 @@ Currently the feature extraction is incomplete, and the machine learning algorit
 ###Calibration system
 ####Requirements
 * MatLab (with Signal Processing Toolkit)
-* EEGLab
 * PsychToolbox
 * Python
 * Muse EEG Headband SDK
@@ -27,6 +26,10 @@ Currently the feature extraction is incomplete, and the machine learning algorit
 * Training set data will be output in data.mat
 
 ###Machine learning system
+####Requirements
+* MatLab (with Signal Processing Toolkit)
+* EEGLab
+####Instructions
 
 ##Future directions
 ###Sensorimotor signal for vegetative patients
