@@ -24,5 +24,6 @@ Currently the feature extraction is incomplete, and the machine learning algorit
   (you will need an extra --device DEVICENAME option if you are using a loaned Muse at a hackathon, rather than a commercial Muse)
 * Wear Muse
 * Run stroop\_test\_demo.m in MatLab, and follow the displayed instructions
+* Training set data will be output in data.mat
 
 ###Machine learning system
