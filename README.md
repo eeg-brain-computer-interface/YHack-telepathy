@@ -29,6 +29,7 @@ Currently the feature extraction is incomplete, and the machine learning algorit
 ####Requirements
 * MatLab (with Signal Processing Toolkit)
 * EEGLab
+
 ####Instructions
 
 ##Future directions
