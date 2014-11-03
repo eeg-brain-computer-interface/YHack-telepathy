@@ -12,14 +12,6 @@ def main():
     proc.sendcontrol('c')
     proc.close()
 
-def main2():
-#    sys.stdout.write("Hello World!")
-    proc = subprocess.Popen(["/Applications/Muse/muse-player", "-l", "udp:5000", "-M", "test.mat"], creationflags=0)
-    
-    child_pid = proc.pid
-
-    time.sleep(5)
-    proc.terminate()
 
 if __name__ == '__main__':
     main()
