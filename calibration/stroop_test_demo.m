@@ -108,7 +108,7 @@ respMat = nan(4, numTrials);
 dataEntries = [0 0 0 0 0 0 0 0 0];
 
 eeg = [];
-systemCommand = ['/usr/bin/python test.py'];
+systemCommand = ['/usr/bin/python start_processing_brain_waves.py'];
 %----------------------------------------------------------------------
 %                       Experimental loop
 %----------------------------------------------------------------------
